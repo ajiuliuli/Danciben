@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/add_item" android:title="登陆个人中心"></item>
+    <item android:id="@+id/add_photograph" android:title="拍照(Photograph)"></item>
+    <item android:id="@+id/add_cancel" android:title="取消(Cancel)"></item>
+    <item android:id="@+id/add_exit" android:title="退出(EXIT)"></item>
+</menu>
